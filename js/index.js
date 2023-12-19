@@ -6,7 +6,7 @@ function loadSQLjs() {
   
   }
   if (localStorage.getItem("translations") == null) {
-      window.location.href = 'downloaddb.php';
+      window.location.href = 'db/downloaddb.php';
   } else {
       var db = new SQL.Database();
       var $translations = JSON.parse(localStorage.getItem("translations"));

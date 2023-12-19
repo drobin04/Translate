@@ -17,7 +17,7 @@ echo $Data;
 </div>
 <script>
 localStorage.setItem("translations",document.getElementById('db').innerHTML);
-window.location.href = 'index.html';
+window.location.href = '../index.html';
 </script>
 
 </body>

@@ -1,6 +1,15 @@
 # Translate
- Vocab Building Tool that cycles between flashcards in different languages to practice languages. Can be embedded. 
+This tiny applet serves as a vocab building tool.
 
+It cycles between flashcards in different languages to help you remember and practice languages. 
+
+Most importantly, this tool can be embedded as part of other pages! 
+
+There are also links on each of the phrases that take you to Google Translate, where you can hear them pronounced audibly.
+
+## Live Demo
+
+You can access a live demo of this tool [here](https://douglasrobinson.me/Translate_Demo/index.html).
 
 # Features 
 
