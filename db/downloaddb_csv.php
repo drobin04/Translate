@@ -6,18 +6,11 @@
 
 <div id='db'>
 <?php
-// URL of the Google Sheet in CSV format
-// NOTE - THE SHEET MUST BE MADE PUBLICLY AVAILABLE. 
-// OTHERWISE THE DATA SENT BACK FROM THIS URL WILL BE A GOOGLE SIGN IN PAGE AND WILL BE VERY CONFUSING TO TROUBLESHOOT.
-// THIS FILE DOESNT SEEM TO RUN WHEN HOSTED FROM FREESHOTIA.
-// GOING TO HAVE TO RUN IT ON LOCAL PHP SERVER, THEN JUST UPDATE THE FILE. WILL MAKE THINGS EASIER TO MANAGE OVERALL. 
-$sheetid = "1CKgSmeCu5zLx4VHbxm0jGZ4EXzAo8GrjXjpknMakIH0";
-$sheetUrl = "https://docs.google.com/spreadsheets/d/" . $sheetid . "/export?format=csv";
 $csvfile = "translate.csv";
 
 // Fetch the CSV data from the Google Sheet
 $csvData = file_get_contents($csvfile);
-//echo $csvData;
+//echo $csvData; // troubleshooting only, this line shouldn't be printed normally!
 // Convert the CSV data into a 2D array
 $lines = explode("\n", $csvData);
 $header = str_getcsv(array_shift($lines));

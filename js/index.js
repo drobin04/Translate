@@ -5,11 +5,8 @@ function loadSQLjs() {
   eval(scriptCode);
   
   }
-  
-  
-  
   if (localStorage.getItem("translations") == null) {
-      window.location.href = 'downloaddb_manual.php';
+      window.location.href = 'downloaddb.php';
   } else {
       var db = new SQL.Database();
       var $translations = JSON.parse(localStorage.getItem("translations"));
@@ -46,8 +43,8 @@ function loadSQLjs() {
     </div>
     <br />
     <a href="#" id="refresh-link">Refresh</a>
-    <a href="downloaddb_manual.php">Update DB</a>
-    <a target="_blank" href="https://docs.google.com/spreadsheets/d/1CKgSmeCu5zLx4VHbxm0jGZ4EXzAo8GrjXjpknMakIH0/edit#gid=0">Edit Translations</a>
+    <a href="db/downloaddb.php">Update DB</a>
+    <a target="_blank" href="setup.php">Setup</a>
     <br />Viewed ${row[4]} times.
   `;
   document.getElementById("content").innerHTML = content;

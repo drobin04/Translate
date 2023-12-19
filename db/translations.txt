@@ -1,0 +1,58 @@
+{
+    "translations": [
+        {
+            "English": "Hello",
+            "Spanish": "Hola",
+            "French": "Bonjour",
+            "Hindi?": "\u0928\u092e\u0938\u094d\u0924\u0947"
+        },
+        {
+            "English": "This was fun",
+            "Spanish": "Esto fue divertido",
+            "French": "C'\u00e9tait amusant",
+            "Hindi?": "\u092f\u0939 \u092e\u091c\u0947\u0926\u093e\u0930 \u0925\u093e"
+        },
+        {
+            "English": "This is my room",
+            "Spanish": "Esta es mi habitaci\u00f3n",
+            "French": "C'est ma chambre",
+            "Hindi?": "\u092f\u0939 \u092e\u0947\u0930\u093e \u0915\u092e\u0930\u093e \u0939\u0948"
+        },
+        {
+            "English": "We don't need that",
+            "Spanish": "No necesitamos eso",
+            "French": "Nous n'avons pas besoin de \u00e7a",
+            "Hindi?": "\u0939\u092e\u0947\u0902 \u0907\u0938\u0915\u0940 \u0906\u0935\u0936\u094d\u092f\u0915\u0924\u093e \u0928\u0939\u0940\u0902 \u0939\u0948"
+        },
+        {
+            "English": "We stop at the park",
+            "Spanish": "Nos detenemos en el parque",
+            "French": "Nous nous arr\u00eatons au parc",
+            "Hindi?": "\u0939\u092e \u092a\u093e\u0930\u094d\u0915 \u092e\u0947\u0902 \u0930\u0941\u0915\u0924\u0947 \u0939\u0948\u0902"
+        },
+        {
+            "English": "car",
+            "Spanish": "auto",
+            "French": "voiture",
+            "Hindi?": "\u0915\u093e\u0930"
+        },
+        {
+            "English": "weather",
+            "Spanish": "clima",
+            "French": "temps",
+            "Hindi?": "\u092e\u094c\u0938\u092e"
+        },
+        {
+            "English": "time",
+            "Spanish": "tiempo",
+            "French": "temps",
+            "Hindi?": "\u0938\u092e\u092f"
+        },
+        {
+            "English": "computer",
+            "Spanish": "computadora",
+            "French": "ordinateur",
+            "Hindi?": "\u0915\u0902\u092a\u094d\u092f\u0942\u091f\u0930"
+        }
+    ]
+}
