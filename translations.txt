@@ -1,0 +1,418 @@
+{
+    "translations": [
+        {
+            "English": "Hello",
+            "Spanish": "Hola",
+            "French": "Bonjour",
+            "Hindi?": "\u0928\u092e\u0938\u094d\u0924\u0947"
+        },
+        {
+            "English": "This was fun",
+            "Spanish": "Esto fue divertido",
+            "French": "C'\u00e9tait amusant",
+            "Hindi?": "\u092f\u0939 \u092e\u091c\u0947\u0926\u093e\u0930 \u0925\u093e"
+        },
+        {
+            "English": "This is my room",
+            "Spanish": "Esta es mi habitaci\u00f3n",
+            "French": "C'est ma chambre",
+            "Hindi?": "\u092f\u0939 \u092e\u0947\u0930\u093e \u0915\u092e\u0930\u093e \u0939\u0948"
+        },
+        {
+            "English": "We don't need that",
+            "Spanish": "No necesitamos eso",
+            "French": "Nous n'avons pas besoin de \u00e7a",
+            "Hindi?": "\u0939\u092e\u0947\u0902 \u0907\u0938\u0915\u0940 \u0906\u0935\u0936\u094d\u092f\u0915\u0924\u093e \u0928\u0939\u0940\u0902 \u0939\u0948"
+        },
+        {
+            "English": "We stop at the park",
+            "Spanish": "Nos detenemos en el parque",
+            "French": "Nous nous arr\u00eatons au parc",
+            "Hindi?": "\u0939\u092e \u092a\u093e\u0930\u094d\u0915 \u092e\u0947\u0902 \u0930\u0941\u0915\u0924\u0947 \u0939\u0948\u0902"
+        },
+        {
+            "English": "car",
+            "Spanish": "auto",
+            "French": "voiture",
+            "Hindi?": "\u0915\u093e\u0930"
+        },
+        {
+            "English": "weather",
+            "Spanish": "clima",
+            "French": "temps",
+            "Hindi?": "\u092e\u094c\u0938\u092e"
+        },
+        {
+            "English": "time",
+            "Spanish": "tiempo",
+            "French": "temps",
+            "Hindi?": "\u0938\u092e\u092f"
+        },
+        {
+            "English": "computer",
+            "Spanish": "computadora",
+            "French": "ordinateur",
+            "Hindi?": "\u0915\u0902\u092a\u094d\u092f\u0942\u091f\u0930"
+        },
+        {
+            "English": "monitor",
+            "Spanish": "monitor",
+            "French": "moniteur",
+            "Hindi?": "\u0928\u093f\u0917\u0930\u093e\u0928\u0940 \u0915\u0930\u0928\u093e"
+        },
+        {
+            "English": "screen",
+            "Spanish": "pantalla",
+            "French": "filtrer",
+            "Hindi?": "\u0938\u094d\u0915\u094d\u0930\u0940\u0928"
+        },
+        {
+            "English": "desk",
+            "Spanish": "escritorio",
+            "French": "bureau",
+            "Hindi?": "\u092e\u0947\u091c\u093c"
+        },
+        {
+            "English": "fan",
+            "Spanish": "admirador",
+            "French": "ventilateur",
+            "Hindi?": "\u092a\u0902\u0916\u093e"
+        },
+        {
+            "English": "fridge",
+            "Spanish": "refrigerador",
+            "French": "r\u00e9frig\u00e9rateur",
+            "Hindi?": "\u092b\u093c\u094d\u0930\u093f\u091c"
+        },
+        {
+            "English": "refridgerator",
+            "Spanish": "refrigerador",
+            "French": "r\u00e9frig\u00e9rateur",
+            "Hindi?": "\u0930\u0947\u092b\u094d\u0930\u093f\u0921\u0947\u091c\u0930"
+        },
+        {
+            "English": "water heater",
+            "Spanish": "calentador de agua",
+            "French": "chauffe-eau",
+            "Hindi?": "\u0935\u093e\u091f\u0930 \u0939\u0940\u091f\u0930"
+        },
+        {
+            "English": "boiler",
+            "Spanish": "caldera",
+            "French": "Chaudi\u00e8re",
+            "Hindi?": "\u092c\u093e\u092f\u0932\u0930"
+        },
+        {
+            "English": "glasses",
+            "Spanish": "anteojos",
+            "French": "lunettes",
+            "Hindi?": "\u091a\u0936\u094d\u092e\u093e"
+        },
+        {
+            "English": "chair",
+            "Spanish": "silla",
+            "French": "chaise",
+            "Hindi?": "\u0915\u0941\u0930\u094d\u0938\u0940"
+        },
+        {
+            "English": "air conditioner",
+            "Spanish": "aire acondicionado",
+            "French": "climatiseur",
+            "Hindi?": "\u090f\u092f\u0930 \u0915\u0902\u0921\u0940\u0936\u0928\u0930"
+        },
+        {
+            "English": "taxi",
+            "Spanish": "Taxi",
+            "French": "Taxi",
+            "Hindi?": "\u091f\u0948\u0915\u094d\u0938\u0940"
+        },
+        {
+            "English": "I forgot my wallet at home",
+            "Spanish": "Olvid\u00e9 mi billetera en casa",
+            "French": "J'ai oubli\u00e9 mon portefeuille \u00e0 la maison",
+            "Hindi?": "\u092e\u0948\u0902 \u0918\u0930 \u092a\u0930 \u0905\u092a\u0928\u093e \u092c\u091f\u0941\u0906 \u092d\u0942\u0932 \u0917\u092f\u093e"
+        },
+        {
+            "English": "my house",
+            "Spanish": "mi casa",
+            "French": "ma maison",
+            "Hindi?": "\u092e\u0947\u0930\u093e \u0918"
+        },
+        {
+            "English": "that is mine",
+            "Spanish": "eso es mio",
+            "French": "c'est \u00e0 moi",
+            "Hindi?": "\u0935\u0939 \u092e\u0947\u0930\u0940 \u091a\u0940\u091c\u093c \u0939\u0948"
+        },
+        {
+            "English": "I made rice for dinner tonight",
+            "Spanish": "Hice arroz para cenar esta noche",
+            "French": "J'ai fait du riz pour le d\u00eener ce soir",
+            "Hindi?": "\u092e\u0948\u0902\u0928\u0947 \u0906\u091c \u0930\u093e\u0924 \u0915\u0947 \u0916\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u091a\u093e\u0935\u0932 \u092c\u0928\u093e\u092f\u093e"
+        },
+        {
+            "English": "Things in the US are very bad right now",
+            "Spanish": "Las cosas en los Estados Unidos son muy malas en este momento",
+            "French": "Aux \u00c9tats-Unis, les choses sont tr\u00e8s mauvaises en ce moment",
+            "Hindi?": "\u0905\u092e\u0947\u0930\u093f\u0915\u093e \u092e\u0947\u0902 \u091a\u0940\u091c\u0947\u0902 \u0905\u092d\u0940 \u092c\u0939\u0941\u0924 \u0916\u0930\u093e\u092c \u0939\u0948\u0902"
+        },
+        {
+            "English": "Nobody can find work",
+            "Spanish": "Nadie puede encontrar trabajo",
+            "French": "Personne ne peut trouver du travail",
+            "Hindi?": "\u0915\u094b\u0908 \u092d\u0940 \u0915\u093e\u092e \u0928\u0939\u0940\u0902 \u092a\u093e \u0938\u0915\u0924\u093e \u0939\u0948"
+        },
+        {
+            "English": "I don't smoke",
+            "Spanish": "No fumo",
+            "French": "Je ne fume pas",
+            "Hindi?": "\u092e\u0948\u0902 \u0927\u0942\u092e\u094d\u0930\u092a\u093e\u0928 \u0928\u0939\u0940\u0902 \u0915\u0930\u0924\u093e"
+        },
+        {
+            "English": "I need to practice more",
+            "Spanish": "Necesito practicar m\u00e1s",
+            "French": "J'ai besoin de pratiquer davantage",
+            "Hindi?": "\u092e\u0941\u091d\u0947 \u091c\u093c\u094d\u092f\u093e\u0926\u093e \u0905\u092d\u094d\u092f\u093e\u0938 \u0915\u0930\u0928\u093e \u091a\u093e\u0939\u093f\u090f"
+        },
+        {
+            "English": "I lost my debit card",
+            "Spanish": "Perd\u00ed mi tarjeta de d\u00e9bito",
+            "French": "J'ai perdu ma carte de d\u00e9bit",
+            "Hindi?": "\u092e\u0948\u0902\u0928\u0947 \u0905\u092a\u0928\u093e \u0921\u0947\u092c\u093f\u091f \u0915\u093e\u0930\u094d\u0921 \u0916\u094b \u0926\u093f\u092f\u093e"
+        },
+        {
+            "English": "made",
+            "Spanish": "hecho",
+            "French": "fait",
+            "Hindi?": "\u0928\u093f\u0930\u094d\u092e\u093f\u0924"
+        },
+        {
+            "English": "Can I have an ashtray? ",
+            "Spanish": "\u00bfMe puede dar un cenicero?",
+            "French": "Puis-je avoir un cendrier?",
+            "Hindi?": "\u0915\u094d\u092f\u093e \u092e\u0947\u0930\u0947 \u092a\u093e\u0938 \u090f\u0915 \u0910\u0936\u091f\u094d\u0930\u0947 \u0939\u094b \u0938\u0915\u0924\u093e \u0939\u0948?"
+        },
+        {
+            "English": "My parents have many medical issues",
+            "Spanish": "Mis padres tienen muchos problemas m\u00e9dicos",
+            "French": "Mes parents ont de nombreux probl\u00e8mes m\u00e9dicaux",
+            "Hindi?": "\u092e\u0947\u0930\u0947 \u092e\u093e\u0924\u093e -\u092a\u093f\u0924\u093e \u0915\u0947 \u092a\u093e\u0938 \u0915\u0908 \u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e \u092e\u0941\u0926\u094d\u0926\u0947 \u0939\u0948\u0902"
+        },
+        {
+            "English": "I need to clean my house",
+            "Spanish": "Necesito limpiar mi casa",
+            "French": "J'ai besoin de nettoyer ma maison",
+            "Hindi?": "\u092e\u0941\u091d\u0947 \u0905\u092a\u0928\u093e \u0918\u0930 \u0938\u093e\u092b \u0915\u0930\u0928\u0947 \u0915\u0940 \u091c\u0930\u0942\u0930\u0924 \u0939\u0948"
+        },
+        {
+            "English": "I haven't returned to the US to visit friends in a while",
+            "Spanish": "No he regresado a los Estados Unidos para visitar amigos en mucho tiempo",
+            "French": "Je ne suis pas retourn\u00e9 aux \u00c9tats-Unis pour rendre visite \u00e0 des amis depuis un moment",
+            "Hindi?": "\u092e\u0948\u0902 \u0925\u094b\u0921\u093c\u0940 \u0926\u0947\u0930 \u092e\u0947\u0902 \u0926\u094b\u0938\u094d\u0924\u094b\u0902 \u0938\u0947 \u092e\u093f\u0932\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0928\u0939\u0940\u0902 \u0932\u094c\u091f\u093e"
+        },
+        {
+            "English": "Things are corrupt and dangerous in the US",
+            "Spanish": "Las cosas son corruptas y peligrosas en los Estados Unidos",
+            "French": "Les choses sont corrompues et dangereuses aux \u00c9tats-Unis",
+            "Hindi?": "\u0905\u092e\u0947\u0930\u093f\u0915\u093e \u092e\u0947\u0902 \u091a\u0940\u091c\u0947\u0902 \u092d\u094d\u0930\u0937\u094d\u091f \u0914\u0930 \u0916\u0924\u0930\u0928\u093e\u0915 \u0939\u0948\u0902"
+        },
+        {
+            "English": "The people there are arrogant and entitled",
+            "Spanish": "La gente all\u00ed es arrogante y con derecho",
+            "French": "Les gens l\u00e0-bas sont arrogants et autoris\u00e9s",
+            "Hindi?": "\u0935\u0939\u093e\u0902 \u0915\u0947 \u0932\u094b\u0917 \u0918\u092e\u0902\u0921\u0940 \u0914\u0930 \u0939\u0915\u0926\u093e\u0930 \u0939\u0948\u0902"
+        },
+        {
+            "English": "The police and governments at the city, state and federal level all steal money from people",
+            "Spanish": "La polic\u00eda y los gobiernos en el nivel de la ciudad, el estado y federal roban dinero de las personas",
+            "French": "La police et les gouvernements de la ville, de l'\u00c9tat et du niveau f\u00e9d\u00e9ral volent tous de l'argent aux gens",
+            "Hindi?": "\u0936\u0939\u0930, \u0930\u093e\u091c\u094d\u092f \u0914\u0930 \u0938\u0902\u0918\u0940\u092f \u0938\u094d\u0924\u0930 \u092a\u0930 \u092a\u0941\u0932\u093f\u0938 \u0914\u0930 \u0938\u0930\u0915\u093e\u0930\u0947\u0902 \u0938\u092d\u0940 \u0932\u094b\u0917\u094b\u0902 \u0938\u0947 \u092a\u0948\u0938\u0947 \u091a\u0941\u0930\u093e\u0924\u0940 \u0939\u0948\u0902"
+        },
+        {
+            "English": "My mom is going to have to delay her trip for a few months",
+            "Spanish": "Mi mam\u00e1 tendr\u00e1 que retrasar su viaje por unos meses",
+            "French": "Ma m\u00e8re va devoir retarder son voyage pendant quelques mois",
+            "Hindi?": "\u092e\u0947\u0930\u0940 \u092e\u093e\u0901 \u0915\u094b \u0915\u0941\u091b \u092e\u0939\u0940\u0928\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0905\u092a\u0928\u0940 \u092f\u093e\u0924\u094d\u0930\u093e \u092e\u0947\u0902 \u0926\u0947\u0930\u0940 \u0915\u0930\u0928\u0940 \u0939\u094b\u0917\u0940"
+        },
+        {
+            "English": "They won't be able to visit before the last day of the lease",
+            "Spanish": "No podr\u00e1n visitar antes del \u00faltimo d\u00eda del contrato de arrendamiento.",
+            "French": "Ils ne pourront pas visiter avant le dernier jour du bail",
+            "Hindi?": "\u0935\u0947 \u092a\u091f\u094d\u091f\u0947 \u0915\u0947 \u0905\u0902\u0924\u093f\u092e \u0926\u093f\u0928 \u0938\u0947 \u092a\u0939\u0932\u0947 \u0928\u0939\u0940\u0902 \u091c\u093e \u092a\u093e\u090f\u0902\u0917\u0947"
+        },
+        {
+            "English": "I am a stock trader",
+            "Spanish": "Soy un operador de acciones",
+            "French": "Je suis un commer\u00e7ant",
+            "Hindi?": "\u092e\u0948\u0902 \u090f\u0915 \u0938\u094d\u091f\u0949\u0915 \u091f\u094d\u0930\u0947\u0921\u0930 \u0939\u0942\u0902"
+        },
+        {
+            "English": "I am an investor",
+            "Spanish": "Soy un inversor",
+            "French": "Je suis un investisseur",
+            "Hindi?": "\u092e\u0948\u0902 \u090f\u0915 \u0928\u093f\u0935\u0947\u0936\u0915 \u0939\u0942\u0902"
+        },
+        {
+            "English": "I am a stockbroker",
+            "Spanish": "Soy un corredor de bolsa",
+            "French": "Je suis courtier",
+            "Hindi?": "\u092e\u0948\u0902 \u090f\u0915 \u0938\u094d\u091f\u0949\u0915\u092c\u094d\u0930\u094b\u0915\u0930 \u0939\u0942\u0902"
+        },
+        {
+            "English": "I play a lot of video games",
+            "Spanish": "Juego muchos videojuegos",
+            "French": "Je joue beaucoup de jeux vid\u00e9o",
+            "Hindi?": "\u092e\u0948\u0902 \u092c\u0939\u0941\u0924 \u0938\u093e\u0930\u0947 \u0935\u0940\u0921\u093f\u092f\u094b \u0917\u0947\u092e \u0916\u0947\u0932\u0924\u093e \u0939\u0942\u0902"
+        },
+        {
+            "English": "I grew up in Chicago",
+            "Spanish": "Crec\u00ed en Chicago",
+            "French": "J'ai grandi \u00e0 Chicago",
+            "Hindi?": "\u092e\u0948\u0902 \u0936\u093f\u0915\u093e\u0917\u094b \u092e\u0947\u0902 \u092c\u0921\u093c\u093e \u0939\u0941\u0906"
+        },
+        {
+            "English": "I have trouble relating to people",
+            "Spanish": "Tengo problemas para relacionarse con la gente",
+            "French": "J'ai du mal \u00e0 se rapporter aux gens",
+            "Hindi?": "\u092e\u0941\u091d\u0947 \u0932\u094b\u0917\u094b\u0902 \u0938\u0947 \u0938\u0902\u092c\u0902\u0927\u093f\u0924 \u092a\u0930\u0947\u0936\u093e\u0928\u0940 \u0939\u0948"
+        },
+        {
+            "English": "I haven't met many people here yet",
+            "Spanish": "No he conocido a mucha gente aqu\u00ed todav\u00eda",
+            "French": "Je n'ai pas encore rencontr\u00e9 beaucoup de gens ici",
+            "Hindi?": "\u092e\u0948\u0902 \u0905\u092d\u0940 \u0924\u0915 \u092f\u0939\u093e\u0902 \u0915\u0908 \u0932\u094b\u0917\u094b\u0902 \u0938\u0947 \u0928\u0939\u0940\u0902 \u092e\u093f\u0932\u093e"
+        },
+        {
+            "English": "My spanish is not very good yet",
+            "Spanish": "Mi espa\u00f1ol a\u00fan no es muy bueno",
+            "French": "Mon espagnol n'est pas encore tr\u00e8s bon",
+            "Hindi?": "\u092e\u0947\u0930\u093e \u0938\u094d\u092a\u0947\u0928\u093f\u0936 \u0905\u092d\u0940 \u0924\u0915 \u092c\u0939\u0941\u0924 \u0905\u091a\u094d\u091b\u093e \u0928\u0939\u0940\u0902 \u0939\u0948"
+        },
+        {
+            "English": "I have trouble with grammar when speaking spanish",
+            "Spanish": "Tengo problemas con la gram\u00e1tica al hablar espa\u00f1ol",
+            "French": "J'ai des probl\u00e8mes avec la grammaire en parlant espagnol",
+            "Hindi?": "\u0938\u094d\u092a\u0947\u0928\u093f\u0936 \u092c\u094b\u0932\u0924\u0947 \u0938\u092e\u092f \u092e\u0941\u091d\u0947 \u0935\u094d\u092f\u093e\u0915\u0930\u0923 \u0938\u0947 \u092a\u0930\u0947\u0936\u093e\u0928\u0940 \u0939\u094b\u0924\u0940 \u0939\u0948"
+        },
+        {
+            "English": "My air conditioner is broken",
+            "Spanish": "Mi aire acondicionado est\u00e1 roto",
+            "French": "Mon climatiseur est cass\u00e9",
+            "Hindi?": "\u092e\u0947\u0930\u093e \u090f\u092f\u0930 \u0915\u0902\u0921\u0940\u0936\u0928\u0930 \u091f\u0942\u091f \u0917\u092f\u093e \u0939\u0948"
+        },
+        {
+            "English": "I need to replace my water heater with a tankless unit. ",
+            "Spanish": "Necesito reemplazar mi calentador de agua con una unidad sin tanque.",
+            "French": "J'ai besoin de remplacer mon chauffe-eau par une unit\u00e9 sans r\u00e9servoir.",
+            "Hindi?": "\u092e\u0941\u091d\u0947 \u0905\u092a\u0928\u0947 \u0935\u0949\u091f\u0930 \u0939\u0940\u091f\u0930 \u0915\u094b \u090f\u0915 \u091f\u0948\u0902\u0915\u0932\u0947\u0938 \u092f\u0942\u0928\u093f\u091f \u0915\u0947 \u0938\u093e\u0925 \u092c\u0926\u0932\u0928\u0947 \u0915\u0940 \u0906\u0935\u0936\u094d\u092f\u0915\u0924\u093e \u0939\u0948\u0964"
+        },
+        {
+            "English": "I think sometimes about getting a car. ",
+            "Spanish": "A veces pienso en conseguir un coche.",
+            "French": "Je pense parfois \u00e0 obtenir une voiture.",
+            "Hindi?": "\u092e\u0941\u091d\u0947 \u0932\u0917\u0924\u093e \u0939\u0948 \u0915\u093f \u0915\u092d\u0940 -\u0915\u092d\u0940 \u0915\u093e\u0930 \u092a\u093e\u0928\u0947 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902\u0964"
+        },
+        {
+            "English": "I've been in a depressed funk recently",
+            "Spanish": "He estado en un funk deprimido recientemente",
+            "French": "J'ai \u00e9t\u00e9 dans un funk d\u00e9prim\u00e9 r\u00e9cemment",
+            "Hindi?": "\u092e\u0948\u0902 \u0939\u093e\u0932 \u0939\u0940 \u092e\u0947\u0902 \u090f\u0915 \u0909\u0926\u093e\u0938 \u0926\u0941\u0930\u094d\u0917\u0902\u0927 \u092e\u0947\u0902 \u0930\u0939\u093e \u0939\u0942\u0901"
+        },
+        {
+            "English": "I'm terrified about the prospect of death",
+            "Spanish": "Estoy aterrorizado por la perspectiva de la muerte",
+            "French": "Je suis terrifi\u00e9 par la perspective de la mort",
+            "Hindi?": "\u092e\u0948\u0902 \u092e\u094c\u0924 \u0915\u0940 \u0938\u0902\u092d\u093e\u0935\u0928\u093e \u0938\u0947 \u0918\u092c\u0930\u093e \u0917\u092f\u093e \u0939\u0942\u0902"
+        },
+        {
+            "English": "There is too much gun violence in the US",
+            "Spanish": "Hay demasiada violencia armada en los Estados Unidos",
+            "French": "Il y a trop de violence arm\u00e9e aux \u00c9tats-Unis",
+            "Hindi?": "\u0905\u092e\u0947\u0930\u093f\u0915\u093e \u092e\u0947\u0902 \u092c\u0939\u0941\u0924 \u0905\u0927\u093f\u0915 \u092c\u0902\u0926\u0942\u0915 \u0939\u093f\u0902\u0938\u093e \u0939\u0948"
+        },
+        {
+            "English": "I haven't dated many people in the last few years",
+            "Spanish": "No he salido con mucha gente en los \u00faltimos a\u00f1os",
+            "French": "Je ne suis pas sorti avec beaucoup de gens au cours des derni\u00e8res ann\u00e9es",
+            "Hindi?": "\u092e\u0948\u0902\u0928\u0947 \u092a\u093f\u091b\u0932\u0947 \u0915\u0941\u091b \u0935\u0930\u094d\u0937\u094b\u0902 \u092e\u0947\u0902 \u0915\u0908 \u0932\u094b\u0917\u094b\u0902 \u0915\u094b \u0921\u0947\u091f \u0928\u0939\u0940\u0902 \u0915\u093f\u092f\u093e \u0939\u0948"
+        },
+        {
+            "English": "I think",
+            "Spanish": "Creo",
+            "French": "Je pense",
+            "Hindi?": "\u092e\u0947\u0930\u0947 \u0916\u093c\u092f\u093e\u0932 \u0938\u0947"
+        },
+        {
+            "English": "You think",
+            "Spanish": "Crees",
+            "French": "Tu penses",
+            "Hindi?": "\u0906\u092a\u0915\u094b \u0932\u0917\u0924\u093e \u0939\u0948"
+        },
+        {
+            "English": "They think",
+            "Spanish": "Ellos piensan",
+            "French": "Ils pensent",
+            "Hindi?": "\u0909\u0928\u094d\u0939\u0947\u0902 \u0932\u0917\u0924\u093e \u0939\u0948"
+        },
+        {
+            "English": "I miss the weather from Chicago",
+            "Spanish": "Extra\u00f1o el clima de Chicago",
+            "French": "Le temps me manque de Chicago",
+            "Hindi?": "\u092e\u0941\u091d\u0947 \u0936\u093f\u0915\u093e\u0917\u094b \u0938\u0947 \u092e\u094c\u0938\u092e \u0915\u0940 \u092f\u093e\u0926 \u0906\u0924\u0940 \u0939\u0948"
+        },
+        {
+            "English": "My mother was leasing an apartment nearby",
+            "Spanish": "Mi madre estaba alquilando un apartamento cerca",
+            "French": "Ma m\u00e8re louait un appartement \u00e0 proximit\u00e9",
+            "Hindi?": "\u092e\u0947\u0930\u0940 \u092e\u093e\u0901 \u092a\u093e\u0938 \u0915\u0947 \u090f\u0915 \u0905\u092a\u093e\u0930\u094d\u091f\u092e\u0947\u0902\u091f \u0915\u094b \u092a\u091f\u094d\u091f\u0947 \u092a\u0930 \u0926\u0947 \u0930\u0939\u0940 \u0925\u0940"
+        },
+        {
+            "English": "My mom remarried",
+            "Spanish": "Mi mam\u00e1 se volvi\u00f3 a casar",
+            "French": "Ma m\u00e8re s'est remari\u00e9e",
+            "Hindi?": "\u092e\u0947\u0930\u0940 \u092e\u093e\u0901 \u0928\u0947 \u092a\u0941\u0928\u0930\u094d\u0935\u093f\u0935\u093e\u0939 \u0915\u093f\u092f\u093e"
+        },
+        {
+            "English": "My grandparents are dead",
+            "Spanish": "Mis abuelos est\u00e1n muertos",
+            "French": "Mes grands-parents sont morts",
+            "Hindi?": "\u092e\u0947\u0930\u0947 \u0926\u093e\u0926\u093e -\u0926\u093e\u0926\u0940 \u092e\u0930 \u091a\u0941\u0915\u0947 \u0939\u0948\u0902"
+        },
+        {
+            "English": "My stepdad",
+            "Spanish": "Mi padrastro",
+            "French": "Mon beau-p\u00e8re",
+            "Hindi?": "\u092e\u0947\u0930\u0947 \u0938\u094c\u0924\u0947\u0932\u0947 \u092a\u093f\u0924\u093e"
+        },
+        {
+            "English": "My stepdad's parents",
+            "Spanish": "Los padres de mi padrastro",
+            "French": "Les parents de mon beau-p\u00e8re",
+            "Hindi?": "\u092e\u0947\u0930\u0947 \u0938\u094c\u0924\u0947\u0932\u0947 \u092a\u093f\u0924\u093e \u0915\u0947 \u092e\u093e\u0924\u093e -\u092a\u093f\u0924\u093e"
+        },
+        {
+            "English": "I have a cyst on my arm",
+            "Spanish": "Tengo un quiste en mi brazo",
+            "French": "J'ai un kyste sur mon bras",
+            "Hindi?": "\u092e\u0947\u0930\u0940 \u092c\u093e\u0902\u0939 \u092a\u0930 \u090f\u0915 \u092a\u0941\u091f\u0940 \u0939\u0948"
+        },
+        {
+            "English": "I got mercury poisoning from tuna",
+            "Spanish": "Tengo envenenamiento por mercurio de at\u00fan",
+            "French": "J'ai un empoisonnement au mercure du thon",
+            "Hindi?": "\u092e\u0941\u091d\u0947 \u091f\u0942\u0928\u093e \u0938\u0947 \u092a\u093e\u0930\u093e \u0935\u093f\u0937\u093e\u0915\u094d\u0924\u0924\u093e \u092e\u093f\u0932\u0940"
+        },
+        {
+            "English": "I felt anxious and depressed",
+            "Spanish": "Me sent\u00ed ansioso y deprimido",
+            "French": "Je me sentais anxieux et d\u00e9prim\u00e9",
+            "Hindi?": "\u092e\u0948\u0902 \u091a\u093f\u0902\u0924\u093f\u0924 \u0914\u0930 \u0909\u0926\u093e\u0938 \u092e\u0939\u0938\u0942\u0938 \u0915\u0930 \u0930\u0939\u093e \u0925\u093e"
+        },
+        {
+            "English": "Me and my dad don't get along well",
+            "Spanish": "Mi pap\u00e1 y yo no nos llevamos bien",
+            "French": "Moi et mon p\u00e8re ne s'entendons pas bien",
+            "Hindi?": "\u092e\u0948\u0902 \u0914\u0930 \u092e\u0947\u0930\u0947 \u092a\u093f\u0924\u093e\u091c\u0940 \u0905\u091a\u094d\u091b\u0940 \u0924\u0930\u0939 \u0938\u0947 \u0928\u0939\u0940\u0902 \u092e\u093f\u0932\u0924\u0947 \u0939\u0948\u0902"
+        }
+    ]
+}
