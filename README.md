@@ -1,3 +1,5 @@
+![image](https://i.imgur.com/WSGpr09.png)
+
 # Translate
 This tiny applet serves as a vocab building tool.
 
@@ -22,6 +24,8 @@ For ease of config, you have the following options for maintaining your Translat
 * CSV Entry
 
 # Setup
+
+![setupimage](https://i.imgur.com/nPvxVVJ.png)
 
 ## Requirements
 
